@@ -1,0 +1,14 @@
+#main-container{
+    backdrop-filter: blur(5px);
+    border-radius: 20px;
+    margin:20px;
+    text-align: center;
+}
+#books-table{
+    margin: 100px;
+    margin-top: 20px;
+    font-size: larger;
+}
+#books-table TableHead{
+    font-size: large;
+}

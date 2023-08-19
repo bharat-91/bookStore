@@ -1,0 +1,95 @@
+#addbook-main-container {
+    margin: 20px;
+    border-style: none;
+    border-radius: 20px;
+    backdrop-filter: blur(5px);
+    text-align: center;
+    color: black;
+    border-color: red;
+    gap: 10px;
+}
+
+#addbook-container {
+
+    backdrop-filter: blur(5px);
+    border-radius: 10px;
+    box-shadow: 0 10px 15px rgba(0, 0, 0, 0.2);
+    display: flex;
+    width: 70vw;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin-bottom: 50px;
+    gap: 10px;
+}
+
+#addbook-components {
+    margin: 50px;
+    gap: 10px;
+    width: 50vw;
+    text-align: center;;
+}
+
+#addbook-components-row {
+
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 5px;
+    gap: 50px;
+}
+
+#button {
+    color: white;
+}
+.Abtn
+{
+    width: 40%;
+    border-radius: 12px;
+    height: 40%;
+}
+
+/* #addbook-main-container {
+    margin: 20px;
+    border-style: none;
+    border-radius: 20px;
+    backdrop-filter: blur(5px);
+    text-align: center;
+    color: rgb(23, 19, 83);
+}
+
+#addbook-container {
+
+    backdrop-filter: blur(5px);
+    border-radius: 10px;
+    box-shadow: 0 10px 15px rgba(0, 0, 0, 0.2);
+
+    display: flex;
+    width: 70vw;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin-bottom: 50px;
+}
+
+#addbook-components {
+    margin: 50px;
+    width: 50vw;
+    text-align: center;
+}
+
+#addbook-components-row {
+
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+#button {
+    color: white;
+}
+.Cbtn
+{
+    background-color: pink;
+    width: 20%;
+    font-size: 90px;
+} */
